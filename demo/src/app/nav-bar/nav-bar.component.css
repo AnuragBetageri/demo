@@ -1,0 +1,26 @@
+#app_navBar
+{
+    /* background-color: red; */
+    width: 100%;
+    height: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 5rem 0 5rem;
+    font-size: 12px;
+    font-weight: 600;
+
+}
+
+.nav_a > a , .signin > a 
+{
+    margin: 0 0.2cm;
+}
+
+.Try_btn
+{
+    background-color: rgb(0, 60, 40);
+    padding: 0.2cm 0.3cm;
+    color: aliceblue;
+    border-radius: 0.1cm;
+}
